@@ -1,2 +1,2 @@
-# benji.link
-Benji's Website
+# Benji-Website
+My personal Website
